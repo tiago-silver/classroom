@@ -1,3 +1,5 @@
+
+
 //  Hooks personalizados
 type Props = {
     name: string
@@ -8,5 +10,6 @@ type Props = {
         console.log(name,age,message)
     }
 
+   
     return { show}
 }
